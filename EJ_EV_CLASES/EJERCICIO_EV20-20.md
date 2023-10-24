@@ -33,3 +33,15 @@ Retorno:
 ```
 3
 ```
+
+### Ejemplo 3
+
+Llamada:
+```
+hamming("Hola mu","Holi mondu")
+```
+
+Retorno:
+```
+False
+```
